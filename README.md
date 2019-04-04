@@ -52,4 +52,4 @@ The application will be launched at [`http://127.0.0.1:8000/`](http://127.0.0.1:
 
 ## Testing:
 
-  * To run unit tests use `./manage.py test car_api_test`
+  * To run unit tests use `./manage.py test`
